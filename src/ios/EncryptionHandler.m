@@ -6,7 +6,7 @@
 //
 
 #import "EncryptionHandler.h"
-#import "FundacionMaude-Swift.h"
+#import "Normabasica-Swift.h"
 
 @implementation EncryptionHandler
 
