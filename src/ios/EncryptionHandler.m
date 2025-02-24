@@ -6,7 +6,7 @@
 //
 
 #import "EncryptionHandler.h"
-#import "Maudestudio-Swift.h"
+#import "AulaCEPAIM-Swift.h"
 
 @implementation EncryptionHandler
 
