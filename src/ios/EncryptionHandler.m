@@ -6,7 +6,7 @@
 //
 
 #import "EncryptionHandler.h"
-#import "AulaCEPAIM-Swift.h"
+#import "Preopol-Swift.h"
 
 @implementation EncryptionHandler
 
