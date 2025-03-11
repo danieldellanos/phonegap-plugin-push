@@ -6,7 +6,7 @@
 //
 
 #import "EncryptionHandler.h"
-#import "Oposicionesnavaranda-Swift.h"
+#import "Opositoreslideres-Swift.h"
 
 @implementation EncryptionHandler
 
