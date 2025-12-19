@@ -6,7 +6,7 @@
 //
 
 #import "EncryptionHandler.h"
-#import "Opositoreslideres-Swift.h"
+#import "Bigteam-Swift.h"
 
 @implementation EncryptionHandler
 
