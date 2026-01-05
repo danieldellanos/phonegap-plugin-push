@@ -6,7 +6,7 @@
 //
 
 #import "EncryptionHandler.h"
-#import "BiG-Swift.h"
+#import "Política Social-Swift.h"
 
 @implementation EncryptionHandler
 
